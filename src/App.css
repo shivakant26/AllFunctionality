@@ -58,9 +58,7 @@ strong{
 width: 1200px;
 margin: 0 auto;
 }
-.menu ul{
-  /* display: inline-block; */
-}
+
 .menu ul li{
   list-style: none;
   display: inline-block;
